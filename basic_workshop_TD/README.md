@@ -29,13 +29,16 @@ At the end of this workshop, you should
 
 --
 
-* Be able to pass data between an Arduino and Touch Designer using a serial port
+* Be able to receive data in Touch Designer from an Arduino sensor input using a serial port
    * Serial DAT
+   * Project: Modify image using distance sensor
+* Be able to pass data from Touch Designer to an Arduino
    * Firmata
-* Be able to pass build a basic interface in an iPad/iPhone to control a TD network
+   * Project: Audio reactive led
+* Be able to pass build a basic interface in an iPad/iPhone to control a Touch Designer network
   * OSC IN (CHOP) messages
   * Touch OSC
-* Be able to pass data wirelessly between a Microprocessor and touch designer
+* Be able to pass data wirelessly between a Microprocessor and Touch Designer
   * OSC OUT (CHOP)
   * ESP8296 (NodeMCU)  
 
