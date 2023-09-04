@@ -4,4 +4,8 @@ This workshop is intended to give a first introduction to the Touch Designer pro
 
 ## Objectives
 
-* At the end of this workshop
+At the end of this workshop you should
+
+* Be familiar with the TD user interface
+** able to navigation on TD
+* 
