@@ -6,7 +6,7 @@ This workshop is intended to give a first introduction to the Touch Designer pro
 
 At the end of this workshop, you should
 
-* Understand the basic UI controls to navigate in TD
+* Understand the basic UI controls to navigate in Touch Designer
   * Be aware of the Pane Layout and the COMP category Panels 
 * Be able to set up a basic network of TOPs (2d images)
   * Basic/popular TOP operators
@@ -14,7 +14,20 @@ At the end of this workshop, you should
 * Use CHOPs channels to control TOPs parameters in real-time
   * Binding operators
   * Basic audio-reactive network
-* Be familiar with resources to investigate further by yourself
+* Be familiar with resources/authors to investigate further by yourself
+
+--
+
+* Start to get familiar with the 3D environment of Touch Designer
+  * SOP family
+  * Setting up a 3d environment
+  * Materials
+  * Camera COMP
+ * One of the following
+  * Interactive particles
+  * Basic Instancing  
+
+--
 
 * Be able to pass data between an Arduino and Touch Designer using a serial port
    * Serial DAT
