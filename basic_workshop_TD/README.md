@@ -25,6 +25,26 @@ At the end of this workshop, you should
   * Multiply
   * Over
   * Level
+  * Rectangle
+  * Switch
+  * Constant
+  * Video device in
+  * Fit
+  * Edge
+  * Rgbkey
+  * Monochrome
 * CHOPs
   * Lfo
-  * Math 
+  * Math
+  * Count
+  * Logic
+  * Constant
+  * Function
+  * Merge
+  * lag
+  * Select
+  * MouseIn
+  * Audio device in
+* Palette
+  * Checker
+  * Audio Analysis
