@@ -19,10 +19,12 @@ At the end of this workshop, you should
 ## List of Nodes
 
 * TOPs
- * Circle
- * Transform
- * Ramp
- * Multiply
- * Over
- * Level
-* CHOPs 
+  * Circle
+  * Transform
+  * Ramp
+  * Multiply
+  * Over
+  * Level
+* CHOPs
+  * Lfo
+  * Math 
