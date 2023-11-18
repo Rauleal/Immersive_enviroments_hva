@@ -17,3 +17,17 @@ This workshop is intended to ptovide some inspiration for those of you who want 
 * Be familiar with tutorials to use Camera input
 * Be able to set up a basic 3d render set up 
 
+## List of nodes
+
+* Dats
+  * Serial
+  * Convert
+  * Select
+  * Oscin
+* CHOPs
+ * Analyse
+ * Rename
+* Palette
+  * Firmata
+  
+
